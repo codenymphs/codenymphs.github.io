@@ -1,2 +1,8 @@
+title: Code Nymph
+description: programming can be soft and beauty.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+
 plugins:
   - jemoji
