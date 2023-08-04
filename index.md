@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+
 # :elf_woman:
 
-## [agartha](/agartha)
+## [agartha](codenymphs.org/agartha)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
